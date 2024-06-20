@@ -1,13 +1,5 @@
 # Stock: Gestión de Productos para Abarroteras 🛒
-## Tabla de Contenidos 📑
-1. [Descripción del Proyecto](#Descripción)
-2. [Características](#Características)
-3. [Instalación](#Instalación)
-4. [Uso](#uso)
-5. [Contribución](#Contribución)
-6. [Creadores](#creadores)
-7. [Versión](#versión)
-8. [Licencia](#licencia)
+
 ## Descripción 📝
 Este repositorio contiene el código fuente para una aplicación de gestión de productos diseñada específicamente para abarroteras pequeñas. El objetivo principal es facilitar la administración y seguimiento del inventario, de una manera agil priorizando la fácil comprensión del programa. El software fue creado con el lenguaje de programación Java y la base de datos con MySQL
 ## Características 🌟
